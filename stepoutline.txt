@@ -1,0 +1,11 @@
+These are the steps I took in the project:
+1. I created the directory on my desktop
+2. I created the repo in github
+3. I created 3 files and added some content
+4. I added, committed and pushed these files to github
+5. I made some changes to the files and then pushed them again to github
+6. I then went to github and checked out the repo and the files
+7. I then created this file in the repo
+8. I used nano to open it up and add these steps.
+
+I plan on uploading this file now.

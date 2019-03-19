@@ -1,0 +1,8 @@
+// the /packages directory
+/packages/
+//secret.js
+/secret/js
+//all files with a .txt extension
+*.txt
+//any file or directoy that begins with "log"
+log*
